@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Yulith's Cute Clothing",
+  "Author": "Yulith",
+  "Version": "6.7.0",
+  "Description": "Cute clothing for FashionSense Sense framework",
+  "UniqueID": "Yulith.CuteClothing",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "6.7.0"
+  }
+}
